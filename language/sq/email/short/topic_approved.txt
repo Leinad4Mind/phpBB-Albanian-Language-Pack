@@ -1,0 +1,10 @@
+Subject: Tema u miratua - "{TOPIC_TITLE}"
+
+Përshëndetje {USERNAME},
+
+Tema juaj "{TOPIC_TITLE}" në "{SITENAME}" është miratuar nga një moderator ose administrator.
+
+Nëse dëshironi të shihni temën, klikoni lidhjen e mëposhtme:
+{U_VIEW_TOPIC}
+
+{EMAIL_SIG}

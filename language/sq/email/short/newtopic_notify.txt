@@ -1,0 +1,11 @@
+Subject: Temë e re në "{FORUM_NAME}"
+
+Përshëndetje {USERNAME},
+
+Në forumin "{FORUM_NAME}" është krijuar tema e re "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> nga {AUTHOR_NAME}<!-- ENDIF --> që nga vizita juaj e fundit në "{SITENAME}". Nuk do të dërgohen njoftime të tjera derisa ta vizitoni forumin.
+{U_FORUM}
+
+Nëse nuk dëshironi më ta ndiqni këtë forum, klikoni lidhjen e mëposhtme:
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

@@ -1,0 +1,13 @@
+Subject: phpBB është konfiguruar saktë për të dërguar emaile
+
+Përshëndetje {USERNAME},
+
+Urime. Nëse e morët këtë email, phpBB është konfiguruar saktë për të dërguar emaile.
+
+<!-- IF MESSAGE -->
+{MESSAGE}
+
+<!-- ENDIF -->
+Nëse ju nevojitet ndihmë, vizitoni forumet e mbështetjes së phpBB-së - https://www.phpbb.com/community/
+
+{EMAIL_SIG}

@@ -1,0 +1,14 @@
+Subject: Përditësimi phpBB {NEW_VERSION} është i disponueshëm - Kërkohet përditësim kritik për "{SITENAME}"
+
+Përshëndetje {USERNAME},
+
+Ky njoftim ju informon se është publikuar një përditësim kritik sigurie për instalimin tuaj të phpBB-së dhe se duhet ta instaloni menjëherë.
+
+Versioni juaj aktual është {CURRENT_VERSION} dhe është i disponueshëm një version i ri që përfshin rregullime kritike sigurie. Rekomandojmë ta përditësoni menjëherë forumin në versionin më të fundit të disponueshëm, {NEW_VERSION}, për të siguruar që instalimi juaj të mbetet i sigurt dhe i mbrojtur.
+
+Mund t'i shihni hollësitë e versionit në Panelin e Kontrollit të Administratorit të instalimit tuaj të phpBB-së.
+{U_BOARD}
+
+Për ndihmë me procesin e përditësimit, këshillohuni me dokumentacionin ose vizitoni forumet e mbështetjes së phpBB-së.
+
+{EMAIL_SIG}

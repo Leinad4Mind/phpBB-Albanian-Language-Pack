@@ -1,0 +1,13 @@
+Subject: Raporti u mbyll - "{POST_SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Raporti që paraqitët për postimin "{POST_SUBJECT}" nga "{AUTHOR_NAME}" në temën "{TOPIC_TITLE}" në "{SITENAME}" është trajtuar nga një moderator ose administrator. Më pas raporti është mbyllur. Nëse keni pyetje të tjera, kontaktoni {CLOSER_NAME} me mesazh privat.
+
+Mund ta shihni postimin që raportuat duke klikuar lidhjen e mëposhtme:
+
+{U_VIEW_POST}
+
+Keni kërkuar të njoftoheni për këtë ngjarje. Mbani mend se mund të zgjidhni në çdo kohë të mos njoftoheni për raportet e mbyllura të postimeve duke ndryshuar cilësimin përkatës në profilin tuaj.
+
+{EMAIL_SIG}

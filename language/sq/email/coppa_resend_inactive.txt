@@ -1,0 +1,42 @@
+Subject: Mirë se vini në "{SITENAME}"
+
+{WELCOME_MSG}
+
+Në përputhje me COPPA-n, llogaria juaj është aktualisht joaktive.
+
+Ju lutemi, shtypeni këtë mesazh dhe kërkojini prindit ose kujdestarit tuaj ta nënshkruajë dhe t'i vendosë datën. Më pas dërgojeni me faks në:
+
+{FAX_INFO}
+
+OSE dërgojeni me postë në:
+
+{MAIL_INFO}
+
+------------------------------ PRITENI KËTU ------------------------------
+Leje për të marrë pjesë në "{SITENAME}" - {U_BOARD}
+
+Emri i përdoruesit: {USERNAME}
+Emaili: {EMAIL_ADDRESS}
+
+I KAM SHQYRTUAR TË DHËNAT E DHËNA NGA FËMIJA IM DHE ME KËTË I JAP LEJE "{SITENAME}" T'I RUAJË KËTO TË DHËNA.
+E KUPTOJ SE KËTO TË DHËNA MUND TË NDRYSHOHEN NË ÇDO KOHË DUKE FUTUR NJË FJALËKALIM.
+E KUPTOJ SE MUND TË KËRKOJ NË ÇDO KOHË QË KËTO TË DHËNA TË HIQEN NGA "{SITENAME}".
+
+
+Prindi ose kujdestari
+(shkruani emrin tuaj këtu): _____________________
+
+(nënshkruani këtu): __________________
+
+Data: _______________
+
+------------------------------ PRITENI KËTU ------------------------------
+
+
+Pasi administratori ta ketë marrë formularin e mësipërm me faks ose postë të zakonshme, llogaria juaj do të aktivizohet.
+
+Fjalëkalimi juaj është ruajtur në mënyrë të sigurt në bazën tonë të të dhënave dhe nuk mund të rikthehet. Nëse e harroni, mund ta rivendosni duke përdorur adresën e emailit të lidhur me llogarinë tuaj.
+
+Faleminderit që u regjistruat.
+
+{EMAIL_SIG}

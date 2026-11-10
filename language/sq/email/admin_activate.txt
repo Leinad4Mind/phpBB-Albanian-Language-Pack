@@ -1,0 +1,13 @@
+Subject: Aktivizoni llogarinë e përdoruesit
+
+Përshëndetje,
+
+Llogaria e përdoruesit "{USERNAME}" është çaktivizuar ose sapo është krijuar. Ju duhet t'i kontrolloni të dhënat e këtij përdoruesi (nëse është e nevojshme) dhe të veproni në mënyrën e duhur.
+
+Përdorni këtë lidhje për të parë profilin e përdoruesit:
+{U_USER_DETAILS}
+
+Mund ta aktivizoni menjëherë llogarinë duke klikuar këtë lidhje:
+{U_ACTIVATE}
+
+{EMAIL_SIG}

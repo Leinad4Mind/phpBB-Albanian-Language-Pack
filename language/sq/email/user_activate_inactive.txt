@@ -1,0 +1,7 @@
+Subject: Llogaria juaj është çaktivizuar
+
+Përshëndetje {USERNAME},
+
+Llogaria juaj në "{SITENAME}" është çaktivizuar, me shumë gjasë për shkak të ndryshimeve të bëra në profilin tuaj. Administratori i forumit duhet ta aktivizojë para se të mund të identifikoheni. Kur kjo të ndodhë, do të merrni një njoftim tjetër.
+
+{EMAIL_SIG}

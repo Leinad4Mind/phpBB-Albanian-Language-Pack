@@ -1,0 +1,9 @@
+Subject: Llogaria u aktivizua
+
+Përshëndetje {USERNAME},
+
+Llogaria juaj në "{SITENAME}" është aktivizuar nga një administrator. Tani mund të identifikoheni.
+
+Fjalëkalimi juaj është ruajtur në mënyrë të sigurt në bazën tonë të të dhënave dhe nuk mund të rikthehet. Nëse e harroni, mund ta rivendosni duke përdorur adresën e emailit të lidhur me llogarinë tuaj.
+
+{EMAIL_SIG}

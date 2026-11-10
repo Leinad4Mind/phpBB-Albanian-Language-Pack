@@ -1,0 +1,17 @@
+Subject: Mirë se vini në "{SITENAME}"
+
+{WELCOME_MSG}
+
+Ju lutemi, ruajeni këtë email për referencë. Të dhënat e llogarisë suaj janë si më poshtë:
+
+----------------------------
+Emri i përdoruesit: {USERNAME}
+
+URL-ja e forumit: {U_BOARD}
+----------------------------
+
+Fjalëkalimi juaj është ruajtur në mënyrë të sigurt në bazën tonë të të dhënave dhe nuk mund të rikthehet. Nëse e harroni, mund ta rivendosni duke përdorur adresën e emailit të lidhur me llogarinë tuaj.
+
+Faleminderit që u regjistruat.
+
+{EMAIL_SIG}

@@ -1,0 +1,19 @@
+Subject: phpBB u instalua
+
+Urime,
+
+E keni instaluar me sukses phpBB-në në serverin tuaj.
+
+Ky email përmban informacione të rëndësishme për instalimin tuaj dhe duhet të ruhet për referencë. Fjalëkalimi juaj është ruajtur në mënyrë të sigurt në bazën tonë të të dhënave dhe nuk mund të rikthehet. Nëse e harroni, mund ta rivendosni duke përdorur adresën e emailit të lidhur me llogarinë tuaj.
+
+----------------------------
+Emri i përdoruesit: {USERNAME}
+
+URL-ja e forumit: {U_BOARD}
+----------------------------
+
+Informacione të dobishme për programin phpBB mund të gjenden në dosjen e dokumentacionit të instalimit tuaj dhe në faqen e mbështetjes së phpBB.com - https://www.phpbb.com/support/
+
+Për ta mbajtur forumin tuaj të sigurt, rekomandojmë fuqimisht ta përditësoni rregullisht programin. Për lehtësinë tuaj, në faqen e përmendur më sipër gjendet një listë postimesh.
+
+{EMAIL_SIG}

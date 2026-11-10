@@ -1,0 +1,9 @@
+Subject: Raporti u mbyll - "{PM_SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Raporti që paraqitët për mesazhin privat "{PM_SUBJECT}" në "{SITENAME}" është trajtuar nga një moderator ose administrator. Raporti tani është mbyllur.
+
+Nëse keni pyetje të tjera, kontaktoni {CLOSER_NAME} me mesazh privat.
+
+{EMAIL_SIG}

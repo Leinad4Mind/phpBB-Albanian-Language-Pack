@@ -1,0 +1,11 @@
+Subject: Kujtesë për llogarinë joaktive
+
+Përshëndetje {USERNAME},
+
+Ky njoftim ju kujton se llogaria juaj në "{SITENAME}", e krijuar më {REGISTER_DATE}, mbetet joaktive. Nëse dëshironi ta aktivizoni këtë llogari, vizitoni lidhjen e mëposhtme:
+
+{U_ACTIVATE}
+
+Faleminderit që u regjistruat në "{SITENAME}". Presim me kënaqësi pjesëmarrjen tuaj.
+
+{EMAIL_SIG}

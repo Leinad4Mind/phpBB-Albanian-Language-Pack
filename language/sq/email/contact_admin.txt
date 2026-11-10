@@ -1,0 +1,23 @@
+
+Përshëndetje {TO_USERNAME},
+
+Emaili i mëposhtëm ju është dërguar përmes faqes së kontaktit me administratën në "{SITENAME}".
+
+<!-- IF S_IS_REGISTERED -->
+Mesazhi është dërguar nga një llogari në sajt.
+Emri i përdoruesit: {FROM_USERNAME}
+Adresa e emailit: {FROM_EMAIL_ADDRESS}
+Adresa IP: {FROM_IP_ADDRESS}
+Profili: {U_FROM_PROFILE}
+<!-- ELSE -->
+Mesazhi është dërguar nga një vizitor që ka dhënë të dhënat e mëposhtme të kontaktit:
+Emri: {FROM_USERNAME}
+Adresa e emailit: {FROM_EMAIL_ADDRESS}
+Adresa IP: {FROM_IP_ADDRESS}
+<!-- ENDIF -->
+
+
+Mesazhi që ju është dërguar vijon
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

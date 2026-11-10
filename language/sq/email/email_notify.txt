@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - Dërgojini email një miku
+
+Përshëndetje {TO_USERNAME},
+
+Ky email është dërguar nga "{SITENAME}" prej {FROM_USERNAME}, i cili mendoi se mund t'ju interesonte tema e mëposhtme:
+
+{TOPIC_NAME}
+
+Mund ta gjeni këtu:
+
+{U_TOPIC}
+
+Më poshtë mund të jetë përfshirë edhe një mesazh nga {FROM_USERNAME}. Ju lutemi, vini re se ky mesazh nuk është parë ose miratuar nga administratorët e forumit. Nëse dëshironi të ankoheni për marrjen e këtij emaili, kontaktoni administratorin e forumit në {BOARD_CONTACT}. Kur të kontaktoni këtë adresë, përfshini titujt e mesazhit.
+
+----------
+
+{MESSAGE}

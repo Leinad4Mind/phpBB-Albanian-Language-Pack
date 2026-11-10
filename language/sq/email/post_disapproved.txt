@@ -1,0 +1,11 @@
+Subject: Postimi nuk u miratua - "{POST_SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Postimi juaj "{POST_SUBJECT}" në "{SITENAME}" nuk është miratuar nga një moderator ose administrator.
+
+Për mosmiratimin është dhënë arsyeja e mëposhtme:
+
+{REASON}
+
+{EMAIL_SIG}

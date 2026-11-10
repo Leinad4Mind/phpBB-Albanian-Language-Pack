@@ -1,0 +1,13 @@
+Subject: Raport për postimin - "{TOPIC_TITLE}"
+
+Përshëndetje {USERNAME},
+
+Postimi "{POST_SUBJECT}" në "{SITENAME}" është raportuar.
+
+Nëse dëshironi të shihni raportin, klikoni lidhjen e mëposhtme:
+{U_VIEW_REPORT}
+
+Nëse dëshironi të shihni postimin, klikoni lidhjen e mëposhtme:
+{U_VIEW_POST}
+
+{EMAIL_SIG}

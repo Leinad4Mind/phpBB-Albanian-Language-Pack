@@ -1,0 +1,13 @@
+
+Ky është një email që ju është dërguar nga një administrator i "{SITENAME}". Nëse ky mesazh është i padëshiruar, përmban fyerje ose komente të tjera që ju duken fyese, ju lutemi kontaktoni përgjegjësin e forumit në adresën e mëposhtme:
+
+{CONTACT_EMAIL}
+
+Përfshini të gjithë këtë email (veçanërisht titujt e tij).
+
+Mesazhi që ju është dërguar vijon:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+{EMAIL_SIG}

@@ -1,0 +1,18 @@
+Subject: Përgjigje në "{FORUM_NAME}"
+List-Unsubscribe: <{U_STOP_WATCHING_FORUM}>
+
+Përshëndetje {USERNAME},
+
+Forumi "{FORUM_NAME}" ka marrë një përgjigje të re në temën "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> nga {AUTHOR_NAME}<!-- ENDIF --> që nga vizita juaj e fundit në "{SITENAME}". Nuk do të dërgohen njoftime të tjera derisa ta vizitoni temën.
+{U_NEWEST_POST}
+
+Nëse dëshironi të shihni temën, klikoni lidhjen e mëposhtme:
+{U_TOPIC}
+
+Nëse dëshironi të shihni forumin, klikoni lidhjen e mëposhtme:
+{U_FORUM}
+
+Nëse nuk dëshironi më ta ndiqni këtë forum, klikoni lidhjen e mëposhtme:
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

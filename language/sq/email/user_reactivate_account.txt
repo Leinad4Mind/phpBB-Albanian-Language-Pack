@@ -1,0 +1,18 @@
+Subject: Riaktivizoni llogarinë tuaj në "{SITENAME}"
+
+Një administrator i forumit ka kërkuar që llogaria juaj të riaktivizohet. Llogaria juaj është aktualisht joaktive.
+Ndiqni hapat e paraqitur këtu për ta riaktivizuar llogarinë tuaj.
+
+Ju lutemi, ruajeni këtë email për referencë. Të dhënat e llogarisë suaj janë si më poshtë:
+
+----------------------------
+Emri i përdoruesit: {USERNAME}
+----------------------------
+
+Fjalëkalimi juaj është ruajtur në mënyrë të sigurt në bazën tonë të të dhënave dhe nuk mund të rikthehet. Nëse e harroni, mund ta rivendosni duke përdorur adresën e emailit të lidhur me llogarinë tuaj.
+
+Vizitoni lidhjen e mëposhtme për ta riaktivizuar llogarinë tuaj:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

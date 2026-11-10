@@ -1,0 +1,10 @@
+Subject: Raport për mesazh privat - "{SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Është raportuar një mesazh privat me titull "{SUBJECT}" nga "{AUTHOR_NAME}" në "{SITENAME}".
+
+Nëse dëshironi të shihni raportin, klikoni lidhjen e mëposhtme:
+{U_VIEW_REPORT}
+
+{EMAIL_SIG}

@@ -1,0 +1,7 @@
+Subject: Raporti u fshi - "{POST_SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Raporti që paraqitët për postimin "{POST_SUBJECT}" në temën "{TOPIC_TITLE}" në "{SITENAME}" është fshirë nga një moderator ose administrator.
+
+{EMAIL_SIG}

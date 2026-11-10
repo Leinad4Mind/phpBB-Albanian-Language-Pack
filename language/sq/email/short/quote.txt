@@ -1,0 +1,13 @@
+Subject: U cituat në "{TOPIC_TITLE}"
+
+Përshëndetje {USERNAME},
+
+"{AUTHOR_NAME}" ju ka cituar në temën "{TOPIC_TITLE}" në "{SITENAME}".
+
+Nëse dëshironi të shihni postimin ku jeni cituar, klikoni lidhjen e mëposhtme:
+{U_VIEW_POST}
+
+Nëse nuk dëshironi më të merrni njoftime për përgjigjet ku citoheni, përditësoni cilësimet e njoftimeve këtu:
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}

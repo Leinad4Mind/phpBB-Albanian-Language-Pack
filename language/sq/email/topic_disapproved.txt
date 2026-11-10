@@ -1,0 +1,11 @@
+Subject: Tema nuk u miratua - "{TOPIC_TITLE}"
+
+Përshëndetje {USERNAME},
+
+Tema juaj "{TOPIC_TITLE}" në "{SITENAME}" nuk është miratuar nga një moderator ose administrator.
+
+Për mosmiratimin është dhënë arsyeja e mëposhtme:
+
+{REASON}
+
+{EMAIL_SIG}

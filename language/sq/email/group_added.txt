@@ -1,0 +1,11 @@
+Subject: Jeni shtuar në këtë grup përdoruesish
+
+Urime,
+
+Jeni shtuar në grupin "{GROUP_NAME}" në "{SITENAME}".
+Ky veprim është kryer nga një drejtues grupi ose nga administratori i sajtit. Kontaktojini për më shumë informacion.
+
+Mund t'i shihni këtu të dhënat e grupeve tuaja:
+{U_GROUP}
+
+{EMAIL_SIG}

@@ -1,0 +1,10 @@
+Subject: Është bërë një kërkesë për t'iu bashkuar grupit tuaj
+
+I nderuar {USERNAME},
+
+Përdoruesi "{REQUEST_USERNAME}" ka kërkuar t'i bashkohet grupit "{GROUP_NAME}" që moderoni në "{SITENAME}".
+Për ta miratuar ose refuzuar këtë kërkesë anëtarësimi në grup, vizitoni lidhjen e mëposhtme:
+
+{U_PENDING}
+
+{EMAIL_SIG}

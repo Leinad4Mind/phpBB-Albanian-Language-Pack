@@ -1,0 +1,13 @@
+Subject: Raporti i mesazhit privat u mbyll - "{SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Raporti që paraqitët për mesazhin privat "{SUBJECT}" nga "{AUTHOR_NAME}" në "{SITENAME}" është trajtuar nga një moderator ose administrator. Më pas raporti është mbyllur. Nëse keni pyetje të tjera, kontaktoni {CLOSER_NAME} me mesazh privat.
+
+Mund ta shihni mesazhin privat që raportuat duke klikuar lidhjen e mëposhtme:
+
+{U_VIEW_MESSAGE}
+
+Keni kërkuar të njoftoheni për këtë ngjarje. Mbani mend se mund të zgjidhni në çdo kohë të mos njoftoheni për raportet e mbyllura të mesazheve private duke ndryshuar cilësimin përkatës në profilin tuaj.
+
+{EMAIL_SIG}

@@ -1,0 +1,13 @@
+Subject: Mesazh i ri privat
+
+Përshëndetje {USERNAME},
+
+Në llogarinë tuaj në "{SITENAME}" ka mbërritur një mesazh i ri privat nga "{AUTHOR_NAME}" me subjektin e mëposhtëm:
+{SUBJECT}
+
+Mund ta shihni mesazhin e ri duke klikuar lidhjen e mëposhtme:
+{U_VIEW_MESSAGE}
+
+Keni kërkuar të njoftoheni për këtë ngjarje. Mbani mend se mund të zgjidhni në çdo kohë të mos njoftoheni për mesazhe të reja duke ndryshuar cilësimin përkatës në profilin tuaj.
+
+{EMAIL_SIG}

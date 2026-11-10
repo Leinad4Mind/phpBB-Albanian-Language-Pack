@@ -1,0 +1,13 @@
+Subject: Tema kërkon miratim - "{TOPIC_TITLE}"
+
+Përshëndetje {USERNAME},
+
+Tema "{TOPIC_TITLE}" në "{SITENAME}" kërkon miratim.
+
+Nëse dëshironi të shihni temën, klikoni lidhjen e mëposhtme:
+{U_VIEW_TOPIC}
+
+Nëse dëshironi të shihni forumin, klikoni lidhjen e mëposhtme:
+{U_FORUM}
+
+{EMAIL_SIG}

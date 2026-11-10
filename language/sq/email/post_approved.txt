@@ -1,0 +1,13 @@
+Subject: Postimi u miratua - "{POST_SUBJECT}"
+
+Përshëndetje {USERNAME},
+
+Postimi juaj "{POST_SUBJECT}" në "{SITENAME}" është miratuar nga një moderator ose administrator.
+
+Nëse dëshironi të shihni postimin, klikoni lidhjen e mëposhtme:
+{U_VIEW_POST}
+
+Nëse dëshironi të shihni temën, klikoni lidhjen e mëposhtme:
+{U_VIEW_TOPIC}
+
+{EMAIL_SIG}

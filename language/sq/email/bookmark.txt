@@ -1,0 +1,19 @@
+Subject: Përgjigje në "{TOPIC_TITLE}"
+
+Përshëndetje {USERNAME},
+
+Tema që keni shënuar, "{TOPIC_TITLE}", ka marrë një përgjigje të re që nga vizita juaj e fundit në "{SITENAME}". Nuk do të dërgohen njoftime të tjera derisa ta vizitoni temën.
+
+Nëse dëshironi të shihni postimin më të ri, klikoni lidhjen e mëposhtme:
+{U_NEWEST_POST}
+
+Nëse dëshironi të shihni temën, klikoni lidhjen e mëposhtme:
+{U_TOPIC}
+
+Nëse dëshironi të shihni forumin, klikoni lidhjen e mëposhtme:
+{U_FORUM}
+
+Nëse nuk dëshironi më të merrni njoftime për përgjigjet në temat e shënuara, përditësoni cilësimet e njoftimeve këtu:
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}

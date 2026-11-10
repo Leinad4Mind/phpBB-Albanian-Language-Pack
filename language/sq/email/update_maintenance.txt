@@ -1,0 +1,14 @@
+Subject: Përditësimi phpBB {NEW_VERSION} është i disponueshëm për "{SITENAME}"
+
+Përshëndetje {USERNAME},
+
+Ky njoftim ju informon se një përditësim i ri është i disponueshëm për instalimin tuaj të phpBB-së.
+
+Versioni juaj aktual është {CURRENT_VERSION}, ndërsa versioni më i fundit i disponueshëm është {NEW_VERSION}. Rekomandohet fuqimisht ta mbani forumin të përditësuar për të siguruar nivelin më të lartë të sigurisë, qëndrueshmërisë dhe rendimentit.
+
+Mund t'i shihni hollësitë e versionit në Panelin e Kontrollit të Administratorit të instalimit tuaj të phpBB-së.
+{U_BOARD}
+
+Për ndihmë me procesin e përditësimit, këshillohuni me dokumentacionin ose vizitoni forumet e mbështetjes së phpBB-së.
+
+{EMAIL_SIG}
