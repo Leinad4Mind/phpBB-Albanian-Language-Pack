@@ -482,6 +482,7 @@ $lang = array_merge($lang, array(
 	// A, B, C and others replied...
 	'NOTIFICATION_BOOKMARK'				=> array(
 		1	=> '<strong>Përgjigju</strong> nga %1$s në temën e shënuar:',
+		2	=> '<strong>Përgjigju</strong> nga %1$s në temën e shënuar:',
 	),
 	'NOTIFICATION_FORUM'				=> '<em>Forumi:</em> %1$s',
 	'NOTIFICATION_GROUP_REQUEST'		=> '<strong>Kërkesë grupi</strong> nga %1$s për t\'u bashkuar me grupin %2$s.',
@@ -490,12 +491,14 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_PM'					=> '<strong> Mesazh privat</strong> nga %1$s:',
 	'NOTIFICATION_POST'					=> array(
 		1	=> '<strong>Përgjigju</strong> nga %1$s në temë:',
+		2	=> '<strong>Përgjigju</strong> nga %1$s në temë:',
 	),
 	'NOTIFICATION_POST_APPROVED'		=> '<strong>Post i miratuar</strong>:',
 	'NOTIFICATION_POST_DISAPPROVED'		=> '<strong>Postimi nuk u miratua</strong>:',
 	'NOTIFICATION_POST_IN_QUEUE'		=> '<strong>Kërkesa për miratimin e postimit</strong> nga %1$s:',
 	'NOTIFICATION_QUOTE'				=> array(
 		1	=> '<strong> Cituar</strong> nga %1$s në:',
+		2	=> '<strong> Cituar</strong> nga %1$s në:',
 	),
 	'NOTIFICATION_REFERENCE'			=> '"%1$s"',
 	'NOTIFICATION_REASON'				=> '<em>Arsyeja:</em> %1$s.',
@@ -515,6 +518,7 @@ $lang = array_merge($lang, array(
 	// Used in conjunction with NOTIFICATION_BOOKMARK and NOTIFICATION_POST.
 	'NOTIFICATION_MANY_OTHERS'			=> 'të tjerët',
 	'NOTIFICATION_X_OTHERS'				=> array(
+		1	=> '%d tjetër',
 		2	=> '%d të tjerët',
 	),
 	'NOTIFY_ADMIN'				=> 'Ju lutemi njoftoni administratorin ose webmasterin e bordit.',
@@ -835,14 +839,17 @@ $lang = array_merge($lang, array(
 	'TOPIC_POLL'		=> 'Kjo temë ka një sondazh.',
 	'TOTAL_POSTS'		=> 'Totali i postimeve',
 	'TOTAL_POSTS_COUNT'	=> array(
-		2	=> 'Totali i postimeve <strong>%d</strong>',
+		1	=> 'Gjithsej <strong>%d</strong> postim',
+		2	=> 'Gjithsej <strong>%d</strong> postime',
 	),
 	'TOPIC_REPORTED'	=> 'Kjo temë është raportuar',
 	'TOTAL_TOPICS'		=> array(
-		2	=> 'Totali i temave <strong>%d</strong>',
+		1	=> 'Gjithsej <strong>%d</strong> temë',
+		2	=> 'Gjithsej <strong>%d</strong> tema',
 	),
 	'TOTAL_USERS'		=> array(
-		2	=> 'Totali i anëtarëve <strong>%d</strong>',
+		1	=> 'Gjithsej <strong>%d</strong> anëtar',
+		2	=> 'Gjithsej <strong>%d</strong> anëtarë',
 	),
 	'TRACKED_PHP_ERROR'	=> 'Gabimet e gjurmuara PHP: %s',
 	'TWITTER'			=> 'X',

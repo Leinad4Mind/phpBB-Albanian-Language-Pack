@@ -258,7 +258,8 @@ $lang = array_merge($lang, array(
 	'TOO_MANY_ATTACHMENTS'		=> 'Nuk mund të shtohet një bashkëngjitje tjetër, %d është maksimumi.',
 	'TOO_MANY_CHARS'			=> 'Mesazhi juaj përmban shumë karaktere.',
 	'TOO_MANY_CHARS_LIMIT'		=> array(
-		2	=> 'Numri maksimal i karaktereve të lejuara është %1$d.',
+		1	=> 'Lejohet maksimumi %1$d karakter.',
+		2	=> 'Lejohen maksimumi %1$d karaktere.',
 	),
 	'TOO_MANY_POLL_OPTIONS'		=> 'Jeni përpjekur të futni shumë opsione sondazhi.',
 	'TOO_MANY_SMILIES'			=> 'Mesazhi juaj përmban shumë buzëqeshje. Numri maksimal i lejuar i buzëqeshjeve është %d.',

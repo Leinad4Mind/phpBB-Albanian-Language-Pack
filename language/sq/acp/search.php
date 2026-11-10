@@ -112,15 +112,19 @@ $lang = array_merge($lang, array(
 	'SEARCH_GUEST_INTERVAL'					=> 'Intervali i kërkimeve të mysafirëve',
 	'SEARCH_GUEST_INTERVAL_EXPLAIN'			=> 'Numri i sekondave që mysafirët duhet të presin ndërmjet kërkimeve. Nëse një mysafir kërkon, të gjithë të tjerët presin deri në përfundimin e intervalit.',
 	'SEARCH_INDEX_CREATE_REDIRECT'			=> array(
+		1	=> 'Të gjitha postimet deri te ID-ja %2$d u indeksuan; %1$d postim prej tyre në këtë hap.',
 		2	=> 'Të gjitha postimet deri te ID-ja %2$d u indeksuan; %1$d prej tyre në këtë hap.',
 	),
 	'SEARCH_INDEX_CREATE_REDIRECT_RATE'		=> array(
+		1	=> 'Shpejtësia aktuale e indeksimit është rreth %1$.1f postim në sekondë.',
 		2	=> 'Shpejtësia aktuale e indeksimit është rreth %1$.1f postime në sekondë.',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT'			=> array(
+		1	=> 'Të gjitha postimet deri te ID-ja %2$d u hoqën nga indeksi; %1$d postim prej tyre në këtë hap.',
 		2	=> 'Të gjitha postimet deri te ID-ja %2$d u hoqën nga indeksi; %1$d prej tyre në këtë hap.',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT_RATE'		=> array(
+		1	=> 'Shpejtësia aktuale e fshirjes është rreth %1$.1f postim në sekondë.',
 		2	=> 'Shpejtësia aktuale e fshirjes është rreth %1$.1f postime në sekondë.',
 	),
 	'SEARCH_INDEX_CREATED'					=> 'Të gjitha postimet në bazën e forumit u indeksuan me sukses.',
